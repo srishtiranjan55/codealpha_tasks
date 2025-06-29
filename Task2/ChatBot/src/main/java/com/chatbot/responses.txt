@@ -1,0 +1,38 @@
+hello=Hi there! How can I help you?👋
+hi=Hey! Need assistance?
+how are you=Hey! I'm doing great—thanks for asking! 😊
+your name=I'm ChatBot!
+who are you=I’m ChatBot, your friendly assistant 🤖
+
+what is java=Java is a high-level, object-oriented programming language.
+how to create object in java=You can create an object using the 'new' keyword. Like: MyClass obj = new MyClass();
+
+what is polymorphism=Polymorphism allows objects to take on many forms. It’s one of the pillars of OOP.
+what is inheritance=Inheritance allows a class to inherit fields and methods from another class.
+
+what is chatbot=A chatbot is a software app used to simulate conversation with users.
+
+i am happy=Yay! Happiness looks good on you 😄
+i am sad=I'm here for you. Want to talk about it? 🫂
+i am angry=Oh no! Take a deep breath. I'm listening 😤💨
+i am bored=Let’s do something fun! Want a joke or a riddle? 🤹
+i am excited=Awesome! What’s the good news? 🚀
+
+tell me a joke=Why don't scientists trust atoms? Because they make up everything! 😂
+tell me another joke=Why did the computer go to the doctor? Because it had a virus! 🤒💻
+
+give me a quote=“Believe you can and you're halfway there.” – Theodore Roosevelt
+motivate me=You’ve got this! Keep going, one step at a time 💪
+
+what are you doing=Just chilling in my code cave, waiting for you! 😎
+are you real=As real as your Wi-Fi connection! 😄
+do you sleep=Nope! I run on pure logic and 0% sleep ☕
+do you love me=Of course! You're my favorite human ❤️🤖
+
+how is the weather=I wish I could look outside, but I imagine it's nice where you are! 😊
+it's raining=Don't forget your umbrella! ☔ Stay cozy inside.
+it's too hot=Yikes! Stay cool and hydrated 🥵💧
+
+thanks=You're welcome!
+bye=Goodbye! Have a nice day!
+
